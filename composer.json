@@ -1,0 +1,21 @@
+{
+	"name": "bradstinson/debug",
+	"type": "helper file",
+	"description": "A simple debug function",
+	"keywords": ["debug"],
+	"homepage": "https://github.com/bradstinson/debug",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Brad Stinson",
+			"email": "brad@bradstinson.net",
+			"role": "Developer"
+		}
+	],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": ["src/helpers.php"]
+    }
+}
