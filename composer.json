@@ -1,6 +1,6 @@
 {
 	"name": "bradstinson/debug",
-	"type": "helper file",
+	"type": "library",
 	"description": "A simple debug function",
 	"keywords": ["debug"],
 	"homepage": "https://github.com/bradstinson/debug",
